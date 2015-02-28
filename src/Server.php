@@ -1,6 +1,7 @@
 <?php
 namespace SocialiteProviders\xREL;
 
+use Guzzle\Http\Exception\BadResponseException;
 use Laravel\Socialite\One\User;
 use League\OAuth1\Client\Credentials\TokenCredentials;
 use League\OAuth1\Client\Server\Server as BaseServer;
