@@ -6,7 +6,7 @@ use SocialiteProviders\Manager\SocialiteWasCalled;
 class xRELExtendSocialite
 {
     /**
-     * Execute the provider.
+     * Register the provider.
      *
      * @param \SocialiteProviders\Manager\SocialiteWasCalled $socialiteWasCalled
      */
