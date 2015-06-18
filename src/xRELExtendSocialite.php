@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\xREL;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
