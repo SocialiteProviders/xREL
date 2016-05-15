@@ -1,6 +1,6 @@
 {
     "name": "socialiteproviders/xrel",
-    "description": "xREL.to OAuth1 Provider for Laravel Socialite",
+    "description": "xREL.to OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
         "name": "DraperStudio",
