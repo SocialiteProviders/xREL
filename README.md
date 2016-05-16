@@ -1,4 +1,4 @@
-# xREL OAuth1 Provider for Laravel Socialite
+# xREL OAuth2 Provider for Laravel Socialite
 
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/xREL.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/xREL/?branch=master)
 [![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/xrel.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/xrel)
